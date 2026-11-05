@@ -1,0 +1,15 @@
+{
+  "repository": "module-browser-game-quests-flutter",
+  "capabilityKey": "liberusoftware/module-browser-game-quests",
+  "presentation": "mobile-flutter",
+  "package": "module_browser_game_quests_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/browser-game/nextjs/quests.md",
+  "presentationPlan": "projects/browser-game/flutter/quests.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "browser-game"
+  ]
+}
